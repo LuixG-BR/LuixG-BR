@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</div>     
+
 <!--
 **LuixG-BR/LuixG-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
