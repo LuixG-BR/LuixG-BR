@@ -1,5 +1,7 @@
 ## Olá, Eu sou o Luis Gabriel 👋    
 
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **LuixG-BR/LuixG-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
