@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Luis Gabriel 👋 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuixG-BR&layout=compact)
 <!--
 **LuixG-BR/LuixG-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
